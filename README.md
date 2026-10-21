@@ -21,14 +21,6 @@
 - Apache
 - VirtualBox
 
-**Programación y desarrollo web**
-- HTML
-- CSS
-- Python
-
-**Herramientas**
-- Git y GitHub
-- Visual Studio Code
 
 ## 📂 Mis proyectos
 
